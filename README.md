@@ -32,9 +32,10 @@ Utilisation de requête LEFT JOIN
 
 Afficher le résultat de la requête suivante : Liste des apprenants et leurs formateurs ainsi que leurs hobbies
 
-Dans le requête.php : 
+Dans le fichier requête.php : 
 
 Se connecter à la base de données 
 Utiliser la méthode Switch case pour stocker les différentes requêtes (hobbies, formateurs, apprenants, âge) et les afficher sous forme de listes déroulantes
 
 Pour la liste déroulante de l'âge utiliser CREATE TYPE qui définit un nouveau type de données.
+
