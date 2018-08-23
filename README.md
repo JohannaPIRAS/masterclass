@@ -39,7 +39,7 @@ Pour celle de l'âge :
 
 Les 3 inputs doivent s'envoyer et s'enregistrer dans la base de données et récupérer l'id du hobby et du formateur pour le faire correspondre à l'apprenant ajouté.
 
-3eme partie : 
+* 3eme partie : 
 
 Afficher le résultat de la requête suivante : Liste des apprenants et leurs formateurs ainsi que leurs hobbies
 
